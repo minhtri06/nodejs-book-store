@@ -6,11 +6,11 @@ The aim of this project was to practice my skills in working with RESTful APIs a
 
 -   Login, Logout using JSON web token (JWT)
 -   Refreshing tokens
--   Blacklist suspicious tokens
+-   Blacklisting suspicious tokens
 -   Authorization with role rights
 -   Request validation
--   Simple book store functionalities
--   Upload images
+-   Functionalities of a simple book store
+-   Uploading images
 
 ### Technologies
 
