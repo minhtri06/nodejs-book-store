@@ -2,10 +2,10 @@
 
 ### About this project
 
-This project aimed to practice my skills on working with RESTful API and ORM. It is based on another repository of mine (https://github.com/minhtri06/express-rest-api-security-practice) and implement some features:
+The aim of this project was to practice my skills in working with RESTful APIs and ORMs. It is based on another repository of mine (https://github.com/minhtri06/express-rest-api-security-practice) and implements the following features:
 
--   Login, Logout (with Json web token)
--   Refresh token
+-   Login, Logout using JSON web token (JWT)
+-   Refreshing tokens
 -   Blacklist suspicious tokens
 -   Authorization with role rights
 -   Request validation
