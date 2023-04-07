@@ -15,9 +15,9 @@ The aim of this project was to practice my skills in working with RESTful APIs a
 ### Technologies
 
 -   NodeJS: Environment (I used NodeJS v18.12.1 when building this project)
--   expressJS: The core of the server (v4.18.2)
+-   ExpressJS: The core of the server (v4.18.2)
 -   Sequelize: Interact with SQL Server (v6.28.0)
 -   Joi: Validation
--   passport: Verify authentication and authorization
--   helmet: Set security HTTP headers
--   multer: For image uploading
+-   Passport: Verify authentication and authorization
+-   Helmet: Set security HTTP headers
+-   Multer: For image uploading
