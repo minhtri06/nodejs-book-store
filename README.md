@@ -2,15 +2,34 @@
 
 ### About this project
 
-The aim of this project was to practice my skills in working with RESTful APIs and ORMs. It is based on another repository of mine (https://github.com/minhtri06/express-rest-api-security-practice) and implements the following features:
+The aim of this project was to practice my skills in working with RESTful APIs and ORMs. It is based on another repository of mine (https://github.com/minhtri06/express-rest-api-security-practice)
 
--   Login, Logout using JSON web token (JWT)
+#### General functionalities
+
+-   Authentication and authorization with 3 roles (admin, sale manager, user) using JWT
 -   Refreshing tokens
 -   Blacklisting suspicious tokens
--   Authorization with role rights
 -   Request validation
--   Functionalities of a simple book store
--   Uploading images
+-   Update profile
+-   Change avatar
+
+#### Role specific functionalities
+
+Admin:
+
+-   Manage users
+-   Manage books
+-   Manage invoices
+
+Sale manager:
+
+-   Manages invoices
+
+User:
+
+-   Buys books
+
+You can use Postman for testing the API. I have included my Postman collection in the root folder
 
 ### Technologies
 
