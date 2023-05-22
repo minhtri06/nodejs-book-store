@@ -2,7 +2,7 @@
 
 ### About this project
 
-The aim of this project was to practice my skills in working with RESTful APIs and ORMs. It is based on another repository of mine (https://github.com/minhtri06/express-rest-api-security-practice)
+The aim of this project was to practice my skills in working with RESTful APIs and ORMs. It is based on another repository of mine [link github](https://github.com/minhtri06/express-rest-api-security-practice)
 
 #### General functionalities
 
@@ -29,7 +29,7 @@ User:
 
 -   Buys books
 
-You can use Postman for testing the API. I have included my Postman collection in the root folder
+For testing the apis, you can access my published collection [here](https://documenter.getpostman.com/view/24479002/2s93m34Psu)
 
 ### Technologies
 
