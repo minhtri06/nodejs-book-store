@@ -29,7 +29,11 @@ User:
 
 -   Buys books
 
-For testing the apis, you can access my published collection [here](https://documenter.getpostman.com/view/24479002/2s93m34Psu)
+### Testing
+
+For testing the apis, you can access the api documentation [here](https://documenter.getpostman.com/view/24479002/2s93m34Psu). Or you can run in postman
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/24479002-18b6774b-37d2-4a6b-9d72-260c08e90bba?action=collection%2Ffork&collection-url=entityId%3D24479002-18b6774b-37d2-4a6b-9d72-260c08e90bba%26entityType%3Dcollection%26workspaceId%3D0b819cc4-d8fd-4e66-87e0-42eb692c58f2)
 
 ### Technologies
 
